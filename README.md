@@ -24,7 +24,7 @@ This project is an interactive Kanban board for managing GitHub Issues. Users ca
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/GithubKanbanBoard.git
+   git clone https://github.com/maxsabo/GithubKanbanBoard
 2. Install dependencies:
     npm install
 3. Run the project locally:
